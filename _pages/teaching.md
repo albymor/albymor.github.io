@@ -12,13 +12,13 @@ nav_order: 6
 ### Embedded Real-Time Control
 **M.Sc. in Control System Engineering** — Department of Information Engineering, University of Padova
 
-| Academic Year | Hours | Contract |
-|:---|:---:|:---|
-| 2025/2026 | 48h | Prot. 0003096 |
-| 2024/2025 | 48h | Prot. 0004232 |
-| 2023/2024 | 48h | Prot. 0003699 |
-| 2022/2023 | 48h | Prot. 0003365 |
-| 2021/2022 | 48h | 84/2022 - Prot. 0000805 |
+| Academic Year | Hours |
+|:---|:---:|
+| 2025/2026 | 48h |
+| 2024/2025 | 48h |
+| 2023/2024 | 48h |
+| 2022/2023 | 48h |
+| 2021/2022 | 48h |
 
 ---
 
@@ -31,12 +31,12 @@ nav_order: 6
 |:---|:---|:---:|
 | 2026 | Industrial Communication Networks | 8h |
 | 2026 | Measurement Systems Architecture, Data Acquisition & Sensors | 22h |
-| 2025 | Industrial Network Security | 56h |
-| 2024 | Industrial Network Security | 48h |
+| 2025 | Functional Safety for Industrial Networks |  56h |
+| 2024 | Functional Safety for Industrial Networks |  48h |
 | 2023 | Measurement Systems Architecture, Data Acquisition & Sensors | 24h |
-| 2023 | Industrial Network Security | 56h |
-| 2022 | Industrial Network Security | 48h |
-| 2021 | Industrial Network Security | 24h |
+| 2023 | Functional Safety for Industrial Networks |  56h |
+| 2022 | Functional Safety for Industrial Networks |  48h |
+| 2021 | Functional Safety for Industrial Networks |  24h |
 | 2021 | Industrial Computer Architecture and Networks | 24h |
 
 *Istituto Tecnico F. Severi, Padova, Italy*
