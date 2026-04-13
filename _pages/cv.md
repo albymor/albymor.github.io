@@ -4,8 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Academic CV of Alberto Morato — Research Fellow at the University of Padova, formerly at CNR-IEIIT. Focused on real-time communication networks, TSN, and Industrial IoT.
 toc:
   sidebar: left
 ---

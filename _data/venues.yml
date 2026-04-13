@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IEEE TIM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19
+  color: "#00629B"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ETFA":
+  url: https://ieee-etfa.org/
+  color: "#0077B6"
 
-"Vision":
-  color: "#009f36"
+"I2MTC":
+  url: https://i2mtc.ieee-ims.org/
+  color: "#2a9d8f"
+
+"Sensors":
+  url: https://www.mdpi.com/journal/sensors
+  color: "#e63946"
+
+"INDIN":
+  url: https://ieee-indin.org/
+  color: "#457b9d"
+
+"MetroInd4.0":
+  url: https://www.metroind40iot.org/
+  color: "#f4a261"
+
+"M&N":
+  url: https://mn.ieee-ims.org/
+  color: "#264653"

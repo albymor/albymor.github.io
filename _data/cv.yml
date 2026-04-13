@@ -2,96 +2,141 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alberto Morato
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th May 1990
     - name: Languages
-      value: English, German
+      value: Italian (Native), English (C1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Information Engineering
+      institution: University of Padova, Department of Information Engineering, Italy
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Thesis: Challenges in the Industrial Internet of Things Scenario: wireless systems for functional safety, distributed measurement and real-time communication."
+        - "Industrial Ph.D. in collaboration with CMZ Sistemi Elettronici Srl."
+        - "Supervisor: Prof. Stefano Vitturi"
+        - title: Key research topics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Safety strategies and fault detection in networked electric drive systems
+            - FSoE proof-of-concept over IEEE 802.11 WLAN
+            - Simulation models for functional safety on wireless networks
+            - Digital-twin for Real-Time industrial network design (ProfiNet)
+            - OPC UA for embedded IoT measurement applications
+    - title: M.Sc. in Automation Engineering
+      institution: University of Padova, Department of Information Engineering, Italy
+      year: 2014 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - "Grade: 100/110"
+        - "Thesis: Modeling, control system design and testing of a hydroelectric power plant"
+        - "Supervisor: Prof. Angelo Cenedese & ZECO s.r.l."
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Fellow
+      institution: Department of Information Engineering, University of Padova
+      year: 2026 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Project: Real-time communication for embedded control systems in the industrial automation context."
+        - Study and development of real-time communication architectures and protocols for embedded control systems in industrial automation.
+    - title: Researcher (Fixed-term)
+      institution: CNR-IEIIT, National Research Council of Italy
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Project iNEST - Interconnected Nord-Est Innovation Ecosystem, Spoke 5 (PNRR)."
+        - Research on hybrid Wired-Wireless-5G TSN systems for time-critical distributed measurement.
+    - title: Post-Doctoral Research Fellow
+      institution: CNR-IEIIT, National Research Council of Italy
+      year: 2022 - 2024
       description:
+        - "Project BAIS: Deterministic wireless networks for functional safety in IIoT."
+        - TSN over WiFi for functional safety, ultra-low-power wireless sensors, ML for distributed systems.
+    - title: Post-Doctoral Research Fellow
+      institution: CNR-IEIIT, National Research Council of Italy
+      year: 2021 - 2022
+      description:
+        - "Project Bioingsec: Distributed functional safety systems based on wireless networks."
+    - title: Research Fellow (FSE Grant)
+      institution: University of Padova / CMZ Sistemi Elettronici Srl
+      year: 2017 - 2018
+      description:
+        - Development of an electric drive with functional safety via fieldbus (FSoE) with SIL3/PLe.
+        - Functional safety requirements, FMEDA analysis, HW/SW simulation.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Industry Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Software Engineer
+      institution: CMZ Sistemi Elettronici Srl
+      year: 2018 - 2021
+      description:
+        - Industrial IoT and Safety-Critical Real-Time Communication Networks.
+        - FSoE proof-of-concept over IEEE 802.11 WLAN (MISRA C Compliant).
+        - OPC UA for distributed IoT measurement on embedded devices.
+        - Profinet interface design for electric drives.
+        - Embedded software for STM32 and TI real-time processors.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Adjunct Professor — Embedded Real-Time Control
+      institution: University of Padova, M.Sc. in Control System Engineering
+      year: 2022 - Present
+      description:
+        - 48 hours per academic year, Department of Information Engineering.
+    - title: ITS Meccatronico Instructor
+      institution: Various ITS institutions (A. Rossi - Vicenza, F. Severi - Padova)
+      year: 2021 - Present
+      description:
+        - Industrial network security, Industrial communication networks, Measurement systems architecture.
+
+- title: Scientific Responsibilities
+  type: time_table
+  contents:
+    - title: Scientific Coordinator for CNR-IEIIT
+      institution: Intel University Research and Technology Evaluation Agreement
+      year: 2025 - Present
+      description:
+        - Research agreement between Intel Corporation, CNR-IEIIT, universities of Modena, Padova, and Politecnico di Torino.
+    - title: Co-Scientific Coordinator
+      institution: CNR-IEIIT / Dataveneta Computers s.r.l.
+      year: 2023 - 2024
+      description:
+        - "Project HODT - Hospice Operator Digital Twin, funded by Regione Veneto."
+        - RFID-based intelligent sensor systems for healthcare monitoring and traceability.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - 'Best Innovative Idea — 2023 International PhD School I. Gorini (PROTECT-Sun project)'
+
+- title: Scientific Memberships
+  type: list
+  contents:
+    - IEEE Member
+    - IEEE Instrumentation and Measurement Society (IEEE-IMS) Member
+    - IEEE-IMS Technical Committee on Measurements and Networking (TC37) Member
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Real-Time Communication Networks
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Time-Sensitive Networking (TSN) — Wired, Wireless, and 5G
+        - Deterministic communication for industrial automation
+        - Industrial Ethernet protocols (Profinet, EtherCAT, OPC UA)
+    - title: Industrial IoT & Functional Safety
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Functional safety over wireless (FSoE, IEC 61508)
+        - Ultra-low-power wireless sensor networks
+        - Digital twins for industrial systems
+    - title: Distributed Measurement Systems
+      items:
+        - Time-critical distributed measurement
+        - Performance evaluation of networked measurement systems
+        - Machine learning for measurement enhancement

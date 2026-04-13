@@ -1,200 +1,255 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alberto Morato",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "alberto.morato[at]cnr[dot]it",
+    "phone": "",
+    "url": "https://albymor.github.io",
+    "summary": "My research is centered on real-time communication networks, with a particular focus on hybrid Wired-Wireless-5G Time-Sensitive Networking (TSN) systems. I specialize in the application of these networks in time-critical distributed measurement systems and the development of measurement techniques to assess their performance.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Giovanni Gradenigo, 6b",
+      "postalCode": "35131",
+      "city": "Padova",
+      "countryCode": "IT",
+      "region": "Veneto"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Alberto Morato",
+        "url": "https://scholar.google.com/citations?user=qc6CJjYAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0001-5745-0529",
+        "url": "https://orcid.org/0000-0001-5745-0529"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Department of Information Engineering, University of Padova",
+      "position": "Research Fellow",
+      "url": "https://www.dei.unipd.it/",
+      "startDate": "2026-03-01",
+      "endDate": "",
+      "summary": "Project: Real-time communication for embedded control systems in the industrial automation context. Research focused on the study and development of real-time communication architectures and protocols for embedded control systems, aimed at optimizing and ensuring the reliability of networks applied to industrial automation.",
+      "highlights": ["Real-time communication", "Embedded control systems", "Industrial automation"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "CNR-IEIIT, National Research Council of Italy",
+      "position": "Researcher (Fixed-term)",
+      "url": "https://www.ieiit.cnr.it/",
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Project iNEST - Interconnected Nord-Est Innovation Ecosystem, Spoke 5 (PNRR). Research on real-time communication networks, with emphasis on hybrid Wired-Wireless-5G Time-Sensitive Networking (TSN) systems, distributed measurement systems, and performance measurement techniques.",
+      "highlights": ["Time-Sensitive Networking (TSN)", "Wired-Wireless-5G hybrid systems", "Distributed measurement systems"]
+    },
+    {
+      "name": "CNR-IEIIT, National Research Council of Italy",
+      "position": "Post-Doctoral Research Fellow",
+      "url": "https://www.ieiit.cnr.it/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-01-01",
+      "summary": "Project BAIS: Deterministic wireless networks for functional safety applications in Industrial IoT. Research on TSN over WiFi for functional safety, ultra-low-power wireless sensors for long-term industrial monitoring, and machine learning techniques for distributed communication and measurement systems.",
+      "highlights": ["Deterministic wireless networks", "Functional safety", "Machine learning for IIoT"]
+    },
+    {
+      "name": "CNR-IEIIT, National Research Council of Italy",
+      "position": "Post-Doctoral Research Fellow",
+      "url": "https://www.ieiit.cnr.it/",
+      "startDate": "2021-10-01",
+      "endDate": "2022-09-30",
+      "summary": "Project Bioingsec: Distributed functional safety systems based on wireless networks. Research on TSN over WiFi, ultra-low-power wireless sensors, and machine learning for distributed systems.",
+      "highlights": ["Functional safety over wireless", "Ultra-low-power sensors"]
+    },
+    {
+      "name": "CMZ Sistemi Elettronici Srl",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2018-10-01",
+      "endDate": "2021-10-01",
+      "summary": "Industrial IoT and Safety-Critical Real-Time Communication Networks. Proof-of-concept implementation of Fail Safe over EtherCAT (FSoE) on IEEE 802.11 WLAN, OPC UA evaluation for distributed IoT measurement, Profinet interface design for electric drives, embedded software for STM32 and TI real-time processors.",
+      "highlights": ["FSoE over WLAN", "OPC UA", "Profinet", "Embedded systems"]
+    },
+    {
+      "name": "University of Padova / CMZ Sistemi Elettronici Srl",
+      "position": "Research Fellow (FSE Grant)",
+      "url": "",
+      "startDate": "2017-06-01",
+      "endDate": "2018-07-31",
+      "summary": "Development of an electric drive with functional safety via fieldbus (FSoE) with SIL3/PLe characteristics according to IEC 61508 and IEC 61800. Activities included functional safety requirements analysis, FMEDA analysis, HW/SW architecture simulation via Simulink, and software quality.",
+      "highlights": ["Functional safety", "IEC 61508", "FMEDA analysis"]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Padova, Department of Information Engineering",
+      "location": "Padova, Italy",
+      "url": "https://www.dei.unipd.it/",
+      "area": "Information Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2018-01-01",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": [
+        "Safety strategies and fault detection in networked electric drive systems",
+        "FSoE proof-of-concept over IEEE 802.11 WLAN",
+        "Wireless applicability in Industrial IoT",
+        "Simulation models for functional safety on wireless networks",
+        "Safety Function Response Time estimation frameworks",
+        "Digital-twin for Real-Time industrial network design (ProfiNet)",
+        "OPC UA evaluation for embedded IoT measurement"
+      ]
+    },
+    {
+      "institution": "University of Padova, Department of Information Engineering",
+      "location": "Padova, Italy",
+      "url": "https://www.dei.unipd.it/",
+      "area": "Automation Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2014-01-01",
+      "endDate": "2017-12-31",
+      "score": "100/110",
+      "courses": [
+        "Dynamic systems analysis and identification",
+        "Statistical and numerical signal filtering",
+        "Feedback control (Digital control, State-space, LQ, PID)",
+        "Manipulator and mobile robot control",
+        "Computer vision",
+        "PLC programming",
+        "Mechanical and electrical drive design"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Innovative Idea",
+      "date": "2023-01-01",
+      "awarder": "2023 International PhD School I. Gorini",
+      "url": "",
+      "summary": "Precision Recognition and Optimization Technologies for Enhancing Cleaning Efficiency in Solar Energy Systems (PROTECT-Sun)."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "English C1",
+      "date": "2021-01-01",
+      "issuer": "Open Badge",
+      "url": "https://bestr.it/verify/OJVSZ6CN8Y",
+      "icon": "fa-solid fa-language"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Real-Time Communication Networks",
+      "level": "Expert",
+      "icon": "fa-solid fa-network-wired",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Time-Sensitive Networking (TSN)",
+        "Profinet",
+        "EtherCAT",
+        "OPC UA",
+        "Industrial Ethernet"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "STM32",
+        "TI C2000",
+        "Raspberry Pi",
+        "PIC Microcontrollers",
+        "Atmel AVR"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "C/C++ (MISRA Compliant)",
+        "Python",
+        "MATLAB/Simulink",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Industrial IoT & Safety",
+      "level": "Expert",
+      "icon": "fa-solid fa-shield-halved",
+      "keywords": [
+        "Functional Safety (IEC 61508)",
+        "FSoE (Fail Safe over EtherCAT)",
+        "Wireless Sensor Networks",
+        "5G Industrial Networks"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "C1",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Real-Time Communication Networks",
+      "icon": "fa-solid fa-tower-broadcast",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Time-Sensitive Networking (TSN)",
+        "Hybrid Wired-Wireless-5G",
+        "Industrial Ethernet",
+        "Deterministic Networking"
+      ]
+    },
+    {
+      "name": "Industrial IoT",
+      "icon": "fa-solid fa-industry",
+      "keywords": [
+        "Functional Safety",
+        "Distributed Measurement Systems",
+        "Digital Twins",
+        "Edge Computing"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "iNEST - Interconnected Nord-Est Innovation Ecosystem",
+      "summary": "PNRR-funded project (Spoke 5) focused on new and emerging technologies for human-centric manufacturing and industrial working environments. Research on hybrid Wired-Wireless-5G TSN systems for time-critical distributed measurement and communication.",
+      "highlights": ["TSN", "5G", "Distributed Measurement"],
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "url": ""
+    },
+    {
+      "name": "Intel University Research Agreement",
+      "summary": "University Research and Technology Evaluation Agreement between Intel Corporation, CNR-IEIIT, University of Modena and Reggio Emilia, University of Padova, and Politecnico di Torino.",
+      "highlights": ["TSN", "Industrial Communication"],
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "HODT - Hospice Operator Digital Twin",
+      "summary": "Regional project funded by Regione Veneto. Study and development of intelligent sensor systems for monitoring and traceability of patients in healthcare facilities, using RFID sensors integrated into clothing.",
+      "highlights": ["RFID", "Digital Twin", "Healthcare IoT"],
+      "startDate": "2023-01-01",
+      "endDate": "2024-12-31",
+      "url": ""
     }
   ]
 }
